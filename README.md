@@ -21,7 +21,7 @@ The analysis focuses on four key areas:
     <div width="920">
       <h1 align="center">Executive Summary</h1>
       <div align="center">
-        <img width="845" height="358" alt="Vero Beverage Sales Revenue from 2021 to 2023" src="https://github.com/user-attachments/assets/c8a45138-adac-40c4-a80f-1d9b3aa8ce94" />
+        <img width="1400" height="600" alt="Sales Revenue (2021-2023)" src="https://github.com/user-attachments/assets/0e12e2a1-5723-4331-b081-2f066cfd6e63" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -122,7 +122,7 @@ The analysis focuses on four key areas:
       <img width="721" height="506" alt="Screenshot 2026-10-28 at 6 58 41 PM" src="https://github.com/user-attachments/assets/7d90492e-4279-4824-bbd9-656630a943b3" />
     </td>
     <td width="1000">       
-      <img width="300" height="213" alt="Screenshot 2026-10-28 at 6 50 26 PM" src="https://github.com/user-attachments/assets/89001712-4a7c-4a7c-8c86-c3a19d79a1bc" />
+      <img width="797" height="532" alt="Screenshot 2026-10-29 at 7 13 28 PM" src="https://github.com/user-attachments/assets/dcc595cf-92f3-4d5b-862c-349c34e631e8" />
     </td>
     <td width="1000">
       <img width="708" height="506" alt="Screenshot 2026-10-28 at 6 59 49 PM" src="https://github.com/user-attachments/assets/d8a4dae7-ef61-4e31-8eea-83febf96ee0d" />
