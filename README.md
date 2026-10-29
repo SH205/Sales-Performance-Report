@@ -2,11 +2,11 @@
 
 ## Client Background
 
-Vero is a German-based beverage company selling alcoholic and non-alcoholic drinks. Its customer base is approaching 10,000, and it has recorded more than 3 million transactions, generating over 1.17 billion in total sales revenue.
+Vero is a German-based beverage company selling alcoholic and non-alcoholic drinks. It has a customer base of 10,000, and it has recorded more than 3 million transactions, generating over 1.17 billion in total sales revenue.
 
 This report evaluates Vero’s sales performance from 2021 to 2023 to help the Head of Operations and internal teams understand business performance, identify areas for improvement, and inform future decisions.
 
-## Key Metrics 
+### Key Metrics 
 
 The analysis focuses on four key areas:
 
@@ -31,7 +31,7 @@ The analysis focuses on four key areas:
               <li>Reported revenue increased year over year, growing from $380.05 million in 2021 to $394.86 million in 2022 and $401.77 million in 2023.</li>
               <li>Annual revenue growth slowed from 3.90% in 2022 to 1.75% in 2023. Although revenue continued to increase, the slowdown warrants further investigation.</li>
               <li>Alcoholic beverages generated $310.98 million in reported 2023 sales, accounting for 77.5% of total revenue.</li>
-              <li>Hamburg recorded average annual sales of approximately $27 million, compared with $21 million in Bremen—a difference of approximately 22% relative to Hamburg.</li>
+              <li>Hamburg was the highest-performing region, averaging approximately $27 million in annual sales each year—29% higher than Bremen’s $21 million. </li>
               <li>B2B contributed substantially more sales than B2C, despite B2C having more customers.</li>
             </ul>
           </li>
@@ -89,18 +89,19 @@ The analysis focuses on four key areas:
 
 - **Historical performance:** December has historically recorded strong sales and the highest AOV, potentially reflecting holiday shopping activity.
 - **Unusual sales performance in 2023:** December 2023 recorded only a $60K increase in sales revenue, compared with $2.46M in December 2021 and $2.08M in December 2022. This represents an approximately 97% decline in the year-over-year sales increase from December 2022.
-- **Order volume and revenue diverged from AOV:** December 2023 had the lowest order volume and the second-lowest sales revenue, despite having the highest AOV ever recorded.
+- **Order volume and revenue diverged from AOV:** December 2023 had the lowest order volume and the second-lowest sales revenue from the the other two dec performance, but still had  the highest AOV ever recorded.
+- **Order volume and revenue diverged from AOV:** December 2023 recorded the lowest order volume and second-lowest sales revenue among the three December periods, yet achieved the highest monthly AOV ever.
 - The combination of low order volume and high AOV suggests that fewer orders and customers coming in may explain the weak sales performance.
 
 #### 2. Recurring February Sales Decline
 
 - **Consistent seasonal pattern:** February recorded the lowest sales and order volume in each year analyzed, making it a recurring period of weaker sales activity.
-- **AOV remained relatively strong:** Despite lower order volume, February did not record the lowest AOV, indicating fewer orders coming in
-- **Year-over-year improvement in the February decline:** The reported sales decline narrowed from $3.32M (10.22%) in February 2021 to $2.61M (7.95%) in February 2022 and $2.40M (7.05%) in February 2023.
+- **AOV remained relatively strong:** Despite lower order volume, February did not record the lowest AOV in any year, indicating that lower sales are due to fewer orders coming in that month.
+- **Year-over-year improvement in the February decline:** The reported sales decline slowed down from $3.32M (10.22%) in February 2021 to $2.61M (7.95%) in February 2022 and $2.40M (7.05%) in February 2023.
 
 #### 3. AOV Growth and Order Volume Patterns
 
-- **AOV increased over time:** Average order value increased by 5.85% from 2021 to 2023, indicating that the average amount spent per order rose over the period.
+- **AOV increased over time:** Average order value increased by 5.85% from 2021 to 2023, indicating that the average amount spent per order rose each year.
 - **Order volume was relatively stable:** Monthly order volume remained relatively consistent across most months and years, with February standing out as a recurring exception.
 - **December showed a different spending pattern:** Order volume declined in December 2023 while AOV reached its highest level in the period analyzed.
 
@@ -128,11 +129,10 @@ The analysis focuses on four key areas:
     </td>
   </tr>
 </table>
-
-
-- Hamburg leads in total sales and customer count, generating **$82M in sales** from 604K customers, while Bremen records the lowest sales at $**65M** with **568K** customers, resulting in a $17M difference in sales.
-- Hessen has the highest AOV at **143.27**, despite having fewer customers than Hamburg, indicating that its customers may generate more value per order. In contrast, Bremen has the lowest AOV at **114.42**, approximately 25.2% lower than Hessen.
-- Brandenburg has the fewest customers at 533K but generates $71M in sales, exceeding Bremen $65M despite having 35K fewer customers.
+  
+- **Hamburg leads in sales and order volume:** Hamburg generated **$82M in sales** from 604K orders, while Bremen recorded the lowest sales at **$65M** from 568K orders—a **$17M sales gap**.
+- **Hessen leads in AOV:** Hessen recorded the highest AOV at **$143.27**, despite having fewer orders than Hamburg. In contrast, Bremen had the lowest AOV at **$114.42**, approximately **20% lower than Hessen**.
+- **Brandenburg generates more sales with fewer orders:** Brandenburg recorded the fewest orders at 533K but generated **$71M in sales**, exceeding Bremen’s $65M despite having 35K fewer orders.
 
 ## Customer Type
 <img width="1162" height="432" alt="Screenshot 2026-10-28 at 7 07 02 PM" src="https://github.com/user-attachments/assets/fb0524e0-c5a2-4a31-b058-aea7c2b41d94" />
@@ -140,16 +140,16 @@ The analysis focuses on four key areas:
 <table align="center">
   <tr>
     <td width="1000">
-      <img width="581" height="323" alt="Screenshot 2026-10-28 at 7 09 13 PM" src="https://github.com/user-attachments/assets/5c629587-ebd5-466b-805a-8910ba9d0109" />
+      <img width="578" height="315" alt="Screenshot 2026-10-29 at 5 29 39 PM" src="https://github.com/user-attachments/assets/ffd331ee-1443-49e5-9fc6-86711d5553e0" />
     </td>
     <td width="1000">       
-      <img width="576" height="323" alt="Screenshot 2026-10-28 at 7 09 37 PM" src="https://github.com/user-attachments/assets/ffcd5737-af19-4e65-8ec8-cd670935361b" />
+      <img width="578" height="315" alt="Screenshot 2026-10-29 at 5 30 53 PM" src="https://github.com/user-attachments/assets/17880009-55ea-4401-8188-60b99813b619" />
     </td>
   </tr>
 </table>
 
 
-- B2B(3.2M) is the larger revenue contributor in each year, even when B2C(5.8M) has customer count of 2.6M more than B2B
+- B2B(3.56K) is the larger revenue contributor in each year, even when B2C(6.44K) has customer count of 2.88K more than B2B
 - B2B remains the company's largest revenue contributor, generating $307.83 million in 2023 which is 76.62% of total sales, compared with $93.95 million from B2C customers.
 
 | **Customer** | **2021 Sales** | **2022 Sales** | **2023 Sales** | 
@@ -158,25 +158,23 @@ The analysis focuses on four key areas:
 | B2C | $89.35M | $91.76M |  $93.95M |
 | **Total Sales** | **$380.05M** | **$394.86M** | **$401.77M** |
 
+---
 ## Recommendation (Next steps)
 
-## **Sales Trend**
+### Sales Trend
 
-- Fix the seasonal sales dropped in February by increasing marketing campaigns during these low-sales periods.
-    - The average sales growth year-over-year for February, it is -8%.
-- Investigate the what caused the Dec 2023 low order volume and sales. **97% drop** in sales increase from Dec 2022.
-    - implementing new marketing or promotional campaigns or product mixes to encourage customers to buy.
-
-## Product Performance
+- **Address February’s recurring sales decline:** February sales declined by an average of **8% year over year**. Investigate potential causes and test targeted marketing campaigns or promotions during this period to help improve sales.
+- **Investigate December 2023’s sharp decline:** December 2023 experienced a **97% decrease in sales compared with December 2022**, alongside unusually low order volume. Identify the underlying causes and consider targeted promotions, marketing campaigns, or adjustments to the product mix to encourage purchases during future December periods.
+  
+### Product Performance
 
 - **Protect leading products:** Monitor inventory, availability, and sales trends for Veuve Clicquot, Moët & Chandon given their substantial contribution to revenue.
 - **Evaluate complementary sales:** Explore whether product bundles or cross-selling opportunities could increase order value.
 - **Review lower-performing products:** Investigate whether low sales reflect demand, product availability, or other factors before making product decisions.
 
-## **Regional Sales**
-
-- **Investigate the** weakest-performing region across both sales and AOV, ****Bremen, how it doesn’t perform better with more customers,  highlighting a potential opportunity to investigate factors contributing to lower customer spending.
-- **Investigate how** Hessen has the highest AOV, and how to replicate that with other regions.
+### Regional Sales
+- **Investigate Bremen’s underperformance:** Bremen has the lowest sales and AOV, despite having fewer customers than Brandenburg. Investigate factors contributing to lower customer spending.
+- **Learn from Hessen’s high AOV:** Analyze what drives Hessen’s highest AOV and identify strategies that could help other regions increase average customer spending.
 
 ### Customer Type
 
@@ -185,7 +183,7 @@ The analysis focuses on four key areas:
 
 ---
 
-# Dataset
+### Dataset
 **Source:** [Beverage Sales Dataset — Kaggle](https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales)
 
 - **Order_ID:** Unique identifier for each order. Groups multiple products within the same order.
@@ -199,3 +197,9 @@ The analysis focuses on four key areas:
 - **Total_Price:** The total price for the product after applying discounts.
 - **Region:** The region of the customer, such as "Bayern" or "Berlin".
 - **Order_Date:** The date when the order was placed.
+
+---
+### Tools Used
+
+- Python • Pandas • Matplotlib • Jupyter Notebook
+- SQL • Databricks
