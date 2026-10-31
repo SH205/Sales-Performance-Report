@@ -74,13 +74,13 @@ The analysis focuses on four key areas:
 <table align="center">
   <tr>
     <td width="1000">
-      <img width="300" height="254" alt="Screenshot 2026-10-27 at 7 26 12 PM" src="https://github.com/user-attachments/assets/e7a33723-ed6b-44cf-8caa-c082217644b8" />
+      <img width="300" height="254" alt="Sales" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/monthly_sales_revenue.png" />
     </td>
     <td width="1000"> 
-      <img width="300" height="254" alt="Screenshot 2026-10-27 at 7 28 44 PM" src="https://github.com/user-attachments/assets/26c64ada-bfa0-44cb-af8c-f4aea175cb4b" />
+      <img width="300" height="254" alt="AOV" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/aov_sales_chart.png"/>
     </td>
     <td width="1000">
-      <img width="300" height="254" alt="Screenshot 2026-10-27 at 7 38 01 PM" src="https://github.com/user-attachments/assets/199ebfa7-da9a-426e-b469-09321b7f30dc" />
+      <img width="300" height="254" alt="Total Orders" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/monthly_total_orders.png" />
     </td>
   </tr>
 </table>
@@ -119,13 +119,13 @@ The analysis focuses on four key areas:
 <table align="center">
   <tr>
     <td width="1000">
-      <img width="721" height="506" alt="Screenshot 2026-10-28 at 6 58 41 PM" src="https://github.com/user-attachments/assets/7d90492e-4279-4824-bbd9-656630a943b3" />
+      <img width="721" height="506" alt="Total sales" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/monthly_sales_top_bottom_regions.png" />
     </td>
     <td width="1000">       
-      <img width="797" height="532" alt="Screenshot 2026-10-29 at 7 13 28 PM" src="https://github.com/user-attachments/assets/dcc595cf-92f3-4d5b-862c-349c34e631e8" />
+      <img width="797" height="532" alt="AOV" src="https://github.com/user-attachments/assets/dcc595cf-92f3-4d5b-862c-349c34e631e8" />
     </td>
     <td width="1000">
-      <img width="708" height="506" alt="Screenshot 2026-10-28 at 6 59 49 PM" src="https://github.com/user-attachments/assets/d8a4dae7-ef61-4e31-8eea-83febf96ee0d" />
+      <img width="708" height="506" alt="Total Orders" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/monthly_total_orders_top_bottom_regions.png" />
     </td>
   </tr>
 </table>
