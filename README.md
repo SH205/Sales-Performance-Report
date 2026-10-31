@@ -106,7 +106,7 @@ The analysis focuses on four key areas:
 - **December showed a different spending pattern:** Order volume declined in December 2023 while AOV reached its highest level in the period analyzed.
 
 ## Product Performance
-<img width="1158" height="477" alt="Screenshot 2026-10-27 at 9 12 32 PM" src="https://github.com/user-attachments/assets/df7ce75e-eee7-4bce-8ffc-4e629fd3b0f3" />
+<img width="1158" height="477" alt="Sales by Category" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/Sales%20by%20Category.png" />
 
 - **Alcoholic beverages dominate sales:** The category generated $310.98M in 2023, accounting for 77.5% of total sales. This makes it the company's primary revenue category.
 - **Revenue is concentrated among a small number of products:** The top-performing products collectively accounted for 57% of 2023 sales, with Veuve Clicquot and Moët & Chandon alone contributing approximately 30%.
@@ -135,7 +135,7 @@ The analysis focuses on four key areas:
 - **Brandenburg generates more sales with fewer orders:** Brandenburg recorded the fewest orders at 533K but generated **$71M in sales**, exceeding Bremen’s $65M despite having 35K fewer orders.
 
 ## Customer Type
-<img width="1162" height="432" alt="Screenshot 2026-10-28 at 7 07 02 PM" src="https://github.com/user-attachments/assets/fb0524e0-c5a2-4a31-b058-aea7c2b41d94" />
+<img width="1162" height="432" alt="Sales by Customer Type" src="https://github.com/SH205/Sales-Performance-Report/blob/main/Charts%20/Sales%20by%20Customer%20Type.png" />
 
 <table align="center">
   <tr>
